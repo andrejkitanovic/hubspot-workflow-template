@@ -1,0 +1,13 @@
+{
+	"root": true,
+	"parserOptions": {
+	},
+	"extends": [
+		"eslint:recommended",
+		"prettier"
+	],
+	"env": {
+		"es2021": true,
+		"node": true
+	}
+}
