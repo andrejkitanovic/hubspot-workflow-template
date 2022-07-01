@@ -1,4 +1,5 @@
 const axiosDefault = require("axios");
+const hubspot = require('@hubspot/api-client');
 
 // ? Define axios instance
 // const axios = axiosDefault.create({
